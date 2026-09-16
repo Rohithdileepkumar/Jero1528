@@ -1,2 +1,3 @@
 # Jero1528
 This is the trail for the project
+I am from ECE
